@@ -1,6 +1,5 @@
-A user login and registration app using Node.js, Express, Passport and Mongoose.
+A user login and registration app using Node.js, Express, Passport, Mongoose and Bootstrap.
 
-Front end using bootstrap.
 I have used offline Mongo (installed in my laptop) to store the details of registered users and the 5 images.
 Database name : loginapp
 
