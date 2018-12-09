@@ -7,6 +7,7 @@ Database name : loginapp
 Server Port Number : 3000
 
 GridFs : To store images in the same database (loginapp)
+
 I stored the images using the following code in command prompt.
      mongofiles.exe -d loginapp put (image).jpg
 
